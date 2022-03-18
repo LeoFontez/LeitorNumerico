@@ -1,0 +1,2 @@
+# LeitorNumerico
+Software
